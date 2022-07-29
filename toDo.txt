@@ -1,0 +1,4 @@
+* Debo pasar el nombre de los botones por props y recibirlos en el componente de botones
+* Crear logica para crear un nuevo usuario
+* Crear logica para inicio de sesion
+* Crear logica para un usuario
